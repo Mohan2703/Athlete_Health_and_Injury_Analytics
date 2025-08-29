@@ -22,7 +22,7 @@ The goal is to help **coaches, medical staff, and sports analysts** make better 
 - Distribution by **event** and **body part**  
 - **Trend over time** for injuries  
 
-![Injury Overview](https://github.com/Screenshots/Athlete%20Final-1.png)
+![Injury Overview](https://github.com/Mohan2703/Athlete-Health-Intelligence/blob/main/Screenshots/Athlete%20Final-1.png)
 
 ---
 
@@ -31,7 +31,7 @@ The goal is to help **coaches, medical staff, and sports analysts** make better 
 - Risk analysis for **frequently injured athletes**    
 - Comparative **recovery rates** across athletes  
 
-![Recovery Analysis](https://github.com/SiddharthRGowda/Athlete-Health-Intelligence/blob/a388485c758095e727223954b9a6ba2687c2c2e6/Screenshots/Athlete%20Final-2.png)  
+![Recovery Analysis](https://github.com/Mohan2703/Athlete-Health-Intelligence/blob/main/Screenshots/Athlete%20Final-2.png)  
 
 ---
 
@@ -41,7 +41,7 @@ The goal is to help **coaches, medical staff, and sports analysts** make better 
 - Risk analysis for **frequently injured athletes**  
 - Drill-through to detailed **athlete profiles**  
 
-![Athlete Insights](https://github.com/SiddharthRGowda/Athlete-Health-Intelligence/blob/d582e29ce73a6c9c906d3e9bf6cf21c73f4577c9/Screenshots/Athlete%20Final-3.png)  
+![Athlete Insights](https://github.com/Mohan2703/Athlete-Health-Intelligence/blob/main/Screenshots/Athlete%20Final-3.png)  
 
 ---
 
@@ -64,4 +64,4 @@ The goal is to help **coaches, medical staff, and sports analysts** make better 
 ```
 ---
 
-✨ If you like this project, consider giving it a ⭐ on GitHub!  
+✨ If you like this project, consider giving it a ⭐!  
