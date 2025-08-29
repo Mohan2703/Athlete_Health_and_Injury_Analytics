@@ -1,5 +1,5 @@
 # 🏋️ Athlete Health & Injury Dashboard  
-
+👉Project Link - [Interactive Dashboard](https://github.com/Mohan2703/Athlete-Health-Intelligence/blob/main/Screenshots/Athlete%20Final-1.png)
 ## 📌 Project Overview  
 This project is a **Power BI dashboard** that analyzes athlete health and injury data. It provides clear insights into injury trends, recovery performance, and athlete-specific risk factors.  
 
