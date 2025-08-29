@@ -22,7 +22,7 @@ The goal is to help **coaches, medical staff, and sports analysts** make better 
 - Distribution by **event** and **body part**  
 - **Trend over time** for injuries  
 
-![Injury Overview](https://github.com/SiddharthRGowda/Athlete-Health-Intelligence/blob/27d1859667462c90dda6a6cfc8ed2f9e4c67219a/Screenshots/Athlete%20Final-1.png)
+![Injury Overview](https://github.com/Screenshots/Athlete%20Final-1.png)
 
 ---
 
