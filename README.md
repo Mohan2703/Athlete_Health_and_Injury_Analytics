@@ -62,6 +62,4 @@ The goal is to help **coaches, medical staff, and sports analysts** make better 
 2. Open the `.pbix` file in **Power BI Desktop**.  
 3. Explore visuals using slicers, filters, and drill-throughs.
 ```
----
-
 ✨ If you like this project, consider giving it a ⭐!  
