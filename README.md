@@ -1,5 +1,5 @@
 # 🏋️ Athlete Health & Injury Dashboard. 
-### ▶[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU0MmMyNGQtODFiMS00NzI3LTk1MDMtYWU3OTNlNmE1MjM4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9 )
+### 👉[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU0MmMyNGQtODFiMS00NzI3LTk1MDMtYWU3OTNlNmE1MjM4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9 )
 ## 📌 Project Overview  
 This project is a **Power BI dashboard** that analyzes athlete health and injury data. It provides clear insights into injury trends, recovery performance, and athlete-specific risk factors.  
 
