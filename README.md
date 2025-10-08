@@ -201,7 +201,7 @@ The dataset used for this project followed a Star Schema design, with multiple d
 $\textsf{\color{blue}{View Modelling ➡️}}$
 </summary> <br>
 
-<img width="982" height="664" alt="Image" src="https://github.com/user-attachments/assets/8c3c1b7f-1171-42df-bfc9-a9083726a8b5" /> <br>
+<img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/8c3c1b7f-1171-42df-bfc9-a9083726a8b5" /> <br>
 
 **The Athlete Analytics solution is built on a Star Schema, designed to balance performance with analytical flexibility.**
 
@@ -367,14 +367,14 @@ $\textsf{\color{blue}{View Images ➡️}}$
 </summary>
 
 > ### 1. Athlete Health Intelligence
-> <a href="https://app.powerbi.com/view?r=eyJrIjoiNWU0MmMyNGQtODFiMS00NzI3LTk1MDMtYWU3OTNlNmE1MjM4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank"><img width="1200" height="674" alt="Image" src="https://github.com/user-attachments/assets/55b78cd7-d4f9-4a75-aacf-6642dbe37639" />
+> <a href="https://app.powerbi.com/view?r=eyJrIjoiNWU0MmMyNGQtODFiMS00NzI3LTk1MDMtYWU3OTNlNmE1MjM4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank"><img width="700" height="420" alt="Image" src="https://github.com/user-attachments/assets/55b78cd7-d4f9-4a75-aacf-6642dbe37639" />
 </a>
 
 > ### 2. Player & Treatment Analytics
-> <img width="1213" height="680" alt="Image" src="https://github.com/user-attachments/assets/fa9fcd91-5e34-4553-99b6-68172bdcf08e" />
+> <img width="700" height="420" alt="Image" src="https://github.com/user-attachments/assets/fa9fcd91-5e34-4553-99b6-68172bdcf08e" />
 
 > ### 3. Cost & Regional Insights 
-> <img width="1201" height="676" alt="Image" src="https://github.com/user-attachments/assets/f2777a2e-65fc-43ec-acd3-e9dbf9c87b0b" />
+> <img width="700" height="420" alt="Image" src="https://github.com/user-attachments/assets/f2777a2e-65fc-43ec-acd3-e9dbf9c87b0b" />
 
 </details>
 
